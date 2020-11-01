@@ -1,0 +1,21 @@
+{
+  "name": "discord.js-els",
+  "version": "1.1.2",
+  "description": "This is a Discord.js V12 package to create a hunger, thirst and health system used in the Discord bot Eco Life",
+  "main": "functions.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "discord.js",
+    "economy",
+    "useful"
+  ],
+  "author": "Lion Luke.",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.1.1",
+    "discord.js": "^12.4.1",
+    "enmap": "^5.8.0"
+  }
+}
